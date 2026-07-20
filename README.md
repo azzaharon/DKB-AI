@@ -5,3 +5,8 @@ Amali Github
 Nama : Azza
 Kursus : DKB3263
 Objektif : Mempelajari repositiry, commit, branch dan pull request.
+
+## Kemahiran
+Python
+Github
+Computer Vision
